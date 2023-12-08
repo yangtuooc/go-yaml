@@ -19,7 +19,8 @@ intellij {
 
     plugins.set(
         listOf(/* Plugin Dependencies */
-            "org.jetbrains.plugins.yaml:232.8660.88"
+            "org.jetbrains.plugins.yaml:232.8660.88",
+            "org.jetbrains.plugins.go:232.9921.28"
         )
     )
 }
