@@ -1,0 +1,16 @@
+<idea-plugin>
+  <id>cn.yangtuooc.yaml</id>
+  <name>Go Yaml</name>
+  <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+
+  <description><![CDATA[
+    Enter short description for your plugin here.<br>
+    <em>most HTML tags may be used</em>
+  ]]></description>
+
+  <depends>org.jetbrains.plugins.yaml</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+
+  </extensions>
+</idea-plugin>
